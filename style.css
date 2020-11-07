@@ -1,0 +1,32 @@
+.container-whole{
+    display: flex;
+}
+.top-container {
+    flex-direction: column;
+    flex-wrap: wrap;
+    display: flex;
+}
+.card {
+  width: 24rem;
+  border: 2px rgb(191, 4, 4) solid;
+  margin: 10px;
+  flex-direction: row;
+  align-content: flex-start;
+}
+
+.img-container {
+
+}
+.card-body {
+  
+}
+.card-title {
+  font-style: 10px;
+}
+.card-text {
+  font-size: 10px;
+}
+
+.lower-container {
+    background-color: rgba(0, 145, 255, 0.693);
+}
